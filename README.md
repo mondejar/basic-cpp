@@ -1,6 +1,6 @@
 # basic_cpp
 
-In this code a set of examples shown some basic aspects and interesting properties of c++.
+In this code a set of examples show some basic aspects and interesting properties of c++.
 
 Compile
 -------
