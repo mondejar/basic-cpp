@@ -14,13 +14,13 @@ make
 ```
 
 - [Example 1](#example-1)
-  - [Constructor & Destructor](#constructor-&-destructor)
+  - [Constructor & Destructor](#constructor-destructor)
   - [Overload operators](#overload-operators)
-  - [Exceptions](#Exceptions)
+  - [Exceptions](#exceptions)
 
 # Example 1
 
-## Constructor & Destructor
+## Constructor Destructor
 ---------------------------
 
 The constructor will be called when instances are created. 
