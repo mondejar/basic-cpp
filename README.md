@@ -13,9 +13,9 @@ cmake ..
 make
 ```
 
-- [Example 1](#Example)
-  - [Constructor & Destructor](#Constructor_&_Destructor)
-  - [Overload operators](#Overload_operators)
+- [Example 1](#Example 1)
+  - [Constructor & Destructor](#Constructor & Destructor)
+  - [Overload operators](#Overload operators)
   - [Exceptions](#Exceptions)
 
 # Example 1
